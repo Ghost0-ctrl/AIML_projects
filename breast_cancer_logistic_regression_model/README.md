@@ -10,3 +10,8 @@ It includes:
 - Hyperparameter tuning using GridSearchCV.
 - Model evaluation (confusion matrix, ROC curve, coefficients).
 - Saving the final trained pipeline with joblib.
+
+---
+
+***Usage***
+python breast_cancer_logistic_regression.py
