@@ -13,5 +13,5 @@ It includes:
 
 ---
 
-***Usage***
+***Usage***:
 python breast_cancer_logistic_regression.py
